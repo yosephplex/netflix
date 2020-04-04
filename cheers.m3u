@@ -1,12 +1,12 @@
-#EXTINF:-1 tvg-id="" tvg-name="Cheer S01 E01" tvg-logo="http://ultraplay.org:80/images/849686a1dd75394e744c7b46e544f68f.jpg" group-title="Netflix",Cheer S01 E01
-http://ultraplay.org:80/series/UPSPORT/UPSPORT/64380.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Cheer S01 E02" tvg-logo="http://ultraplay.org:80/images/87b7edeb0663d1d44c14098f7e27667c.jpg" group-title="Netflix",Cheer S01 E02
-http://ultraplay.org:80/series/UPSPORT/UPSPORT/64381.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Cheer S01 E03" tvg-logo="http://ultraplay.org:80/images/29fcf8dd5bdeb99829c8b433ca6a6792.jpg" group-title="Netflix",Cheer S01 E03
-http://ultraplay.org:80/series/UPSPORT/UPSPORT/64382.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Cheer S01 E04" tvg-logo="http://ultraplay.org:80/images/29fcf8dd5bdeb99829c8b433ca6a6792.jpg" group-title="Netflix",Cheer S01 E04
-http://ultraplay.org:80/series/UPSPORT/UPSPORT/64383.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Cheer S01 E05" tvg-logo="http://ultraplay.org:80/images/29fcf8dd5bdeb99829c8b433ca6a6792.jpg" group-title="Netflix",Cheer S01 E05
-http://ultraplay.org:80/series/UPSPORT/UPSPORT/64384.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Cheer S01 E06" tvg-logo="http://ultraplay.org:80/images/29fcf8dd5bdeb99829c8b433ca6a6792.jpg" group-title="Netflix",Cheer S01 E06
-http://ultraplay.org:80/series/UPSPORT/UPSPORT/64385.mkv
+#EXTINF:0,Cheer S01 E01
+http://ultraplay.org:80/series/uprom/uprom/64380.mkv
+#EXTINF:0,Cheer S01 E02
+http://ultraplay.org:80/series/uprom/uprom/64381.mkv
+#EXTINF:0,Cheer S01 E03
+http://ultraplay.org:80/series/uprom/uprom/64382.mkv
+#EXTINF:0,Cheer S01 E04
+http://ultraplay.org:80/series/uprom/uprom/64383.mkv
+#EXTINF:0,Cheer S01 E05
+http://ultraplay.org:80/series/uprom/uprom/64384.mkv
+#EXTINF:0,Cheer S01 E06
+http://ultraplay.org:80/series/uprom/uprom/64385.mkv

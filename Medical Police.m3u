@@ -1,20 +1,21 @@
-#EXTINF:-1 tvg-id="" tvg-name="Medical Police S01 E01" tvg-logo="http://ultraplay.org:80/images/8a806940ff69cb90b93ab98c5746edaa.jpg" group-title="Netflix",Medical Police S01 E01
-http://ultraplay.org:80/series/UPSPORT/UPSPORT/64362.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Medical Police S01 E02" tvg-logo="http://ultraplay.org:80/images/aa81694dcd4c69b01e13325726091c7c.jpg" group-title="Netflix",Medical Police S01 E02
-http://ultraplay.org:80/series/UPSPORT/UPSPORT/64363.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Medical Police S01 E03" tvg-logo="http://ultraplay.org:80/images/6aca4081190502266df40de3b61f9069.jpg" group-title="Netflix",Medical Police S01 E03
-http://ultraplay.org:80/series/UPSPORT/UPSPORT/64364.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Medical Police S01 E04" tvg-logo="http://ultraplay.org:80/images/451fcae3c0c8964d899cf39ff775f820.jpg" group-title="Netflix",Medical Police S01 E04
-http://ultraplay.org:80/series/UPSPORT/UPSPORT/64365.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Medical Police S01 E05" tvg-logo="http://ultraplay.org:80/images/0f4495752c31e60f267884fe22982449.jpg" group-title="Netflix",Medical Police S01 E05
-http://ultraplay.org:80/series/UPSPORT/UPSPORT/64366.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Medical Police S01 E06" tvg-logo="http://ultraplay.org:80/images/67fff83e75f417262fb164cb0c95e19d.jpg" group-title="Netflix",Medical Police S01 E06
-http://ultraplay.org:80/series/UPSPORT/UPSPORT/64367.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Medical Police S01 E07" tvg-logo="http://ultraplay.org:80/images/73ffb416e7f1b50fafcd9565002517d1.jpg" group-title="Netflix",Medical Police S01 E07
-http://ultraplay.org:80/series/UPSPORT/UPSPORT/64368.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Medical Police S01 E08" tvg-logo="http://ultraplay.org:80/images/61b289df244eedd1654b9018c981f00b.jpg" group-title="Netflix",Medical Police S01 E08
-http://ultraplay.org:80/series/UPSPORT/UPSPORT/64369.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Medical Police S01 E09" tvg-logo="http://ultraplay.org:80/images/d1ff47989b0e77a5a805df6d40febb44.jpg" group-title="Netflix",Medical Police S01 E09
-http://ultraplay.org:80/series/UPSPORT/UPSPORT/64370.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Medical Police S01 E10" tvg-logo="http://ultraplay.org:80/images/53c1abbd8dd096a949c6ba9b2e30e6c9.jpg" group-title="Netflix",Medical Police S01 E10
-http://ultraplay.org:80/series/UPSPORT/UPSPORT/64371.mkv
+#EXTINF:0,Medical Police S01 E01
+http://ultraplay.org:80/series/uprom/uprom/64362.mkv
+#EXTINF:0,Medical Police S01 E02
+http://ultraplay.org:80/series/uprom/uprom/64363.mkv
+#EXTINF:0,Medical Police S01 E03
+http://ultraplay.org:80/series/uprom/uprom/64364.mkv
+#EXTINF:0,Medical Police S01 E04
+http://ultraplay.org:80/series/uprom/uprom/64365.mkv
+#EXTINF:0,Medical Police S01 E05
+http://ultraplay.org:80/series/uprom/uprom/64366.mkv
+#EXTINF:0,Medical Police S01 E06
+http://ultraplay.org:80/series/uprom/uprom/64367.mkv
+#EXTINF:0,Medical Police S01 E07
+#EXTVLCOPT:network-caching=1000
+http://ultraplay.org:80/series/uprom/uprom/64368.mkv
+#EXTINF:0,Medical Police S01 E08
+http://ultraplay.org:80/series/uprom/uprom/64369.mkv
+#EXTINF:0,Medical Police S01 E09
+http://ultraplay.org:80/series/uprom/uprom/64370.mkv
+#EXTINF:0,Medical Police S01 E10
+http://ultraplay.org:80/series/uprom/uprom/64371.mkv

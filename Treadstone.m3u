@@ -1,20 +1,20 @@
-#EXTINF:-1 tvg-id="" tvg-name="Treadstone S01 E01" tvg-logo="http://ultraplay.org:80/images/e05f66a60ae624f34f0d714f10f03b1e.jpg" group-title="Amazon",Treadstone S01 E01
-http://ultraplay.org:80/series/UPSPORT/UPSPORT/68993.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Treadstone S01 E02" tvg-logo="http://ultraplay.org:80/images/d93ff09b021e66539357a68020f98070.jpg" group-title="Amazon",Treadstone S01 E02
-http://ultraplay.org:80/series/UPSPORT/UPSPORT/68994.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Treadstone S01 E03" tvg-logo="http://ultraplay.org:80/images/cbda07a4637ce97112c60c7b8b1c7eb5.jpg" group-title="Amazon",Treadstone S01 E03
-http://ultraplay.org:80/series/UPSPORT/UPSPORT/68995.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Treadstone S01 E04" tvg-logo="http://ultraplay.org:80/images/3c0fba5c71411679e60eddd21ebe5b6a.jpg" group-title="Amazon",Treadstone S01 E04
-http://ultraplay.org:80/series/UPSPORT/UPSPORT/68996.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Treadstone S01 E05" tvg-logo="http://ultraplay.org:80/images/52a74abb44b8491c1afd2f3bc0ce5b27.jpg" group-title="Amazon",Treadstone S01 E05
-http://ultraplay.org:80/series/UPSPORT/UPSPORT/68997.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Treadstone S01 E06" tvg-logo="http://ultraplay.org:80/images/c01c9592bd19a72c487f160ac683e9dd.jpg" group-title="Amazon",Treadstone S01 E06
-http://ultraplay.org:80/series/UPSPORT/UPSPORT/68998.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Treadstone S01 E07" tvg-logo="http://ultraplay.org:80/images/aea2412b0543ad8891735f9b71174113.jpg" group-title="Amazon",Treadstone S01 E07
-http://ultraplay.org:80/series/UPSPORT/UPSPORT/68999.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Treadstone S01 E08" tvg-logo="http://ultraplay.org:80/images/cd4cb5a220e44ec23488181f9a4e32ba.jpg" group-title="Amazon",Treadstone S01 E08
-http://ultraplay.org:80/series/UPSPORT/UPSPORT/69000.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Treadstone S01 E09" tvg-logo="http://ultraplay.org:80/images/72bac11a5913fb33e82e52872b2ecb70.jpg" group-title="Amazon",Treadstone S01 E09
-http://ultraplay.org:80/series/UPSPORT/UPSPORT/69001.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Treadstone S01 E10" tvg-logo="http://ultraplay.org:80/images/52a5196b96a4a2a109318ec165ff379b.jpg" group-title="Amazon",Treadstone S01 E10
-http://ultraplay.org:80/series/UPSPORT/UPSPORT/69002.mkv
+#EXTINF:-1,Treadstone S01 E01
+http://play.serpienteserver.com:8080/series/notocar/notocar/16166.avi
+#EXTINF:-1,Treadstone S01 E02
+http://play.serpienteserver.com:8080/series/notocar/notocar/16167.avi
+#EXTINF:-1,Treadstone S01 E03
+http://play.serpienteserver.com:8080/series/notocar/notocar/16168.avi
+#EXTINF:-1,Treadstone S01 E04
+http://play.serpienteserver.com:8080/series/notocar/notocar/16169.avi
+#EXTINF:-1,Treadstone S01 E05
+http://play.serpienteserver.com:8080/series/notocar/notocar/16170.avi
+#EXTINF:-1,Treadstone S01 E06
+http://play.serpienteserver.com:8080/series/notocar/notocar/16171.avi
+#EXTINF:-1,Treadstone S01 E07
+http://play.serpienteserver.com:8080/series/notocar/notocar/16172.avi
+#EXTINF:-1,Treadstone S01 E08
+http://play.serpienteserver.com:8080/series/notocar/notocar/16173.avi
+#EXTINF:-1,Treadstone S01 E09
+http://play.serpienteserver.com:8080/series/notocar/notocar/16174.avi
+#EXTINF:-1,Treadstone S01 E10
+http://play.serpienteserver.com:8080/series/notocar/notocar/16175.avi

@@ -1,14 +1,284 @@
-#EXTINF:-1 tvg-id="" tvg-name="The Walking Dead S10 E01" tvg-logo="http://ultraplay.org:80/images/vffMcPaWt1ri3kO6WmU1RHIMvLNXeBoh.jpg" group-title="AMC",The Walking Dead S10 E01
-http://ultraplay.org:80/series/UPSPORT/UPSPORT/52483.mkv
-#EXTINF:-1 tvg-id="" tvg-name="The Walking Dead S10 E02" tvg-logo="http://ultraplay.org:80/images/RPyFiP9lLZvP1DlJln6ny5o0QtE1iwO5.jpg" group-title="AMC",The Walking Dead S10 E02
-http://ultraplay.org:80/series/UPSPORT/UPSPORT/52484.mkv
-#EXTINF:-1 tvg-id="" tvg-name="The Walking Dead S10 E03" tvg-logo="http://ultraplay.org:80/images/MnjjsyKL5ZcQrwsiQvxrZPpTT9UksuVU.jpg" group-title="AMC",The Walking Dead S10 E03
-http://ultraplay.org:80/series/UPSPORT/UPSPORT/52487.mkv
-#EXTINF:-1 tvg-id="" tvg-name="The Walking Dead S10 E04" tvg-logo="http://ultraplay.org:80/images/McMNOYXJc3ebMTrHBKAlkbrmqivonAS0.jpg" group-title="AMC",The Walking Dead S10 E04
-http://ultraplay.org:80/series/UPSPORT/UPSPORT/52488.mkv
-#EXTINF:-1 tvg-id="" tvg-name="The Walking Dead S10 E05" tvg-logo="http://ultraplay.org:80/images/F05VNVvs7sUaMENLUNsJleYYYbCmC2P8.jpg" group-title="AMC",The Walking Dead S10 E05
-http://ultraplay.org:80/series/UPSPORT/UPSPORT/52485.mkv
-#EXTINF:-1 tvg-id="" tvg-name="The Walking Dead S10 E06" tvg-logo="http://ultraplay.org:80/images/84Qg1M9XfO8hX4PrzC9MYndYWxaun0qG.jpg" group-title="AMC",The Walking Dead S10 E06
-http://ultraplay.org:80/series/UPSPORT/UPSPORT/52486.mkv
-#EXTINF:-1 tvg-id="" tvg-name="The Walking Dead S10 E07" tvg-logo="http://ultraplay.org:80/images/2HSp8PGdBR9HfNyNEGSpj9HVYsQAy5nh.jpg" group-title="AMC",The Walking Dead S10 E07
-http://ultraplay.org:80/series/UPSPORT/UPSPORT/52489.mkv
+#EXTINF:-1,The Walking Dead S01 E01
+http://play.serpienteserver.com:8080/series/notocar/notocar/14516.avi
+#EXTINF:-1,The Walking Dead S01 E02
+http://play.serpienteserver.com:8080/series/notocar/notocar/14511.avi
+#EXTINF:-1,The Walking Dead S01 E03
+http://play.serpienteserver.com:8080/series/notocar/notocar/14512.avi
+#EXTINF:-1,The Walking Dead S01 E04
+http://play.serpienteserver.com:8080/series/notocar/notocar/14513.avi
+#EXTINF:-1,The Walking Dead S01 E05
+http://play.serpienteserver.com:8080/series/notocar/notocar/14514.avi
+#EXTINF:-1,The Walking Dead S01 E06
+http://play.serpienteserver.com:8080/series/notocar/notocar/14515.avi
+#EXTINF:-1,The Walking Dead S02 E01
+http://play.serpienteserver.com:8080/series/notocar/notocar/14517.avi
+#EXTINF:-1,The Walking Dead S02 E02
+http://play.serpienteserver.com:8080/series/notocar/notocar/14518.avi
+#EXTINF:-1,The Walking Dead S02 E03
+http://play.serpienteserver.com:8080/series/notocar/notocar/14519.avi
+#EXTINF:-1,The Walking Dead S02 E04
+http://play.serpienteserver.com:8080/series/notocar/notocar/14520.avi
+#EXTINF:-1,The Walking Dead S02 E05
+http://play.serpienteserver.com:8080/series/notocar/notocar/14521.avi
+#EXTINF:-1,The Walking Dead S02 E06
+http://play.serpienteserver.com:8080/series/notocar/notocar/14522.avi
+#EXTINF:-1,The Walking Dead S02 E07
+http://play.serpienteserver.com:8080/series/notocar/notocar/14523.avi
+#EXTINF:-1,The Walking Dead S02 E08
+http://play.serpienteserver.com:8080/series/notocar/notocar/14524.avi
+#EXTINF:-1,The Walking Dead S02 E09
+http://play.serpienteserver.com:8080/series/notocar/notocar/14525.avi
+#EXTINF:-1,The Walking Dead S02 E10
+http://play.serpienteserver.com:8080/series/notocar/notocar/14526.avi
+#EXTINF:-1,The Walking Dead S02 E11
+http://play.serpienteserver.com:8080/series/notocar/notocar/14527.avi
+#EXTINF:-1,The Walking Dead S02 E12
+http://play.serpienteserver.com:8080/series/notocar/notocar/14528.avi
+#EXTINF:-1,The Walking Dead S02 E13
+http://play.serpienteserver.com:8080/series/notocar/notocar/14529.avi
+#EXTINF:-1,The Walking Dead S03 E01
+http://play.serpienteserver.com:8080/series/notocar/notocar/14530.avi
+#EXTINF:-1,The Walking Dead S03 E02
+http://play.serpienteserver.com:8080/series/notocar/notocar/14531.avi
+#EXTINF:-1,The Walking Dead S03 E03
+http://play.serpienteserver.com:8080/series/notocar/notocar/14532.avi
+#EXTINF:-1,The Walking Dead S03 E04
+http://play.serpienteserver.com:8080/series/notocar/notocar/14533.avi
+#EXTINF:-1,The Walking Dead S03 E05
+http://play.serpienteserver.com:8080/series/notocar/notocar/14534.avi
+#EXTINF:-1,The Walking Dead S03 E06
+http://play.serpienteserver.com:8080/series/notocar/notocar/14535.avi
+#EXTINF:-1,The Walking Dead S03 E07
+http://play.serpienteserver.com:8080/series/notocar/notocar/14536.avi
+#EXTINF:-1,The Walking Dead S03 E08
+http://play.serpienteserver.com:8080/series/notocar/notocar/14537.avi
+#EXTINF:-1,The Walking Dead S03 E09
+http://play.serpienteserver.com:8080/series/notocar/notocar/14538.avi
+#EXTINF:-1,The Walking Dead S03 E10
+http://play.serpienteserver.com:8080/series/notocar/notocar/14539.avi
+#EXTINF:-1,The Walking Dead S03 E11
+http://play.serpienteserver.com:8080/series/notocar/notocar/14540.avi
+#EXTINF:-1,The Walking Dead S03 E12
+http://play.serpienteserver.com:8080/series/notocar/notocar/14541.avi
+#EXTINF:-1,The Walking Dead S03 E13
+http://play.serpienteserver.com:8080/series/notocar/notocar/14542.avi
+#EXTINF:-1,The Walking Dead S03 E14
+http://play.serpienteserver.com:8080/series/notocar/notocar/14543.avi
+#EXTINF:-1,The Walking Dead S03 E15
+http://play.serpienteserver.com:8080/series/notocar/notocar/14544.avi
+#EXTINF:-1,The Walking Dead S03 E16
+http://play.serpienteserver.com:8080/series/notocar/notocar/14545.avi
+#EXTINF:-1,The Walking Dead S04 E01
+http://play.serpienteserver.com:8080/series/notocar/notocar/14546.avi
+#EXTINF:-1,The Walking Dead S04 E02
+http://play.serpienteserver.com:8080/series/notocar/notocar/14547.avi
+#EXTINF:-1,The Walking Dead S04 E03
+http://play.serpienteserver.com:8080/series/notocar/notocar/14548.avi
+#EXTINF:-1,The Walking Dead S04 E04
+http://play.serpienteserver.com:8080/series/notocar/notocar/14549.avi
+#EXTINF:-1,The Walking Dead S04 E05
+http://play.serpienteserver.com:8080/series/notocar/notocar/14550.avi
+#EXTINF:-1,The Walking Dead S04 E06
+http://play.serpienteserver.com:8080/series/notocar/notocar/14551.avi
+#EXTINF:-1,The Walking Dead S04 E07
+http://play.serpienteserver.com:8080/series/notocar/notocar/14552.avi
+#EXTINF:-1,The Walking Dead S04 E08
+http://play.serpienteserver.com:8080/series/notocar/notocar/14553.avi
+#EXTINF:-1,The Walking Dead S04 E09
+http://play.serpienteserver.com:8080/series/notocar/notocar/14554.avi
+#EXTINF:-1,The Walking Dead S04 E10
+http://play.serpienteserver.com:8080/series/notocar/notocar/14555.avi
+#EXTINF:-1,The Walking Dead S04 E11
+http://play.serpienteserver.com:8080/series/notocar/notocar/14556.avi
+#EXTINF:-1,The Walking Dead S04 E12
+http://play.serpienteserver.com:8080/series/notocar/notocar/14557.avi
+#EXTINF:-1,The Walking Dead S04 E13
+http://play.serpienteserver.com:8080/series/notocar/notocar/14558.avi
+#EXTINF:-1,The Walking Dead S04 E14
+http://play.serpienteserver.com:8080/series/notocar/notocar/14559.avi
+#EXTINF:-1,The Walking Dead S04 E15
+http://play.serpienteserver.com:8080/series/notocar/notocar/14560.avi
+#EXTINF:-1,The Walking Dead S04 E16
+http://play.serpienteserver.com:8080/series/notocar/notocar/14561.avi
+#EXTINF:-1,The Walking Dead S05 E01
+http://play.serpienteserver.com:8080/series/notocar/notocar/14570.avi
+#EXTINF:-1,The Walking Dead S05 E02
+http://play.serpienteserver.com:8080/series/notocar/notocar/14571.avi
+#EXTINF:-1,The Walking Dead S05 E03
+http://play.serpienteserver.com:8080/series/notocar/notocar/14572.avi
+#EXTINF:-1,The Walking Dead S05 E04
+http://play.serpienteserver.com:8080/series/notocar/notocar/14573.avi
+#EXTINF:-1,The Walking Dead S05 E05
+http://play.serpienteserver.com:8080/series/notocar/notocar/14574.avi
+#EXTINF:-1,The Walking Dead S05 E06
+http://play.serpienteserver.com:8080/series/notocar/notocar/14575.avi
+#EXTINF:-1,The Walking Dead S05 E07
+http://play.serpienteserver.com:8080/series/notocar/notocar/14576.avi
+#EXTINF:-1,The Walking Dead S05 E08
+http://play.serpienteserver.com:8080/series/notocar/notocar/14577.avi
+#EXTINF:-1,The Walking Dead S05 E09
+http://play.serpienteserver.com:8080/series/notocar/notocar/14578.avi
+#EXTINF:-1,The Walking Dead S05 E10
+http://play.serpienteserver.com:8080/series/notocar/notocar/14579.avi
+#EXTINF:-1,The Walking Dead S05 E11
+http://play.serpienteserver.com:8080/series/notocar/notocar/14584.avi
+#EXTINF:-1,The Walking Dead S05 E12
+http://play.serpienteserver.com:8080/series/notocar/notocar/14580.avi
+#EXTINF:-1,The Walking Dead S05 E13
+http://play.serpienteserver.com:8080/series/notocar/notocar/14581.avi
+#EXTINF:-1,The Walking Dead S05 E14
+http://play.serpienteserver.com:8080/series/notocar/notocar/14582.avi
+#EXTINF:-1,The Walking Dead S05 E15
+http://play.serpienteserver.com:8080/series/notocar/notocar/14583.avi
+#EXTINF:-1,The Walking Dead S06 E01
+http://play.serpienteserver.com:8080/series/notocar/notocar/14585.avi
+#EXTINF:-1,The Walking Dead S06 E02
+http://play.serpienteserver.com:8080/series/notocar/notocar/14586.avi
+#EXTINF:-1,The Walking Dead S06 E03
+http://play.serpienteserver.com:8080/series/notocar/notocar/14587.avi
+#EXTINF:-1,The Walking Dead S06 E04
+http://play.serpienteserver.com:8080/series/notocar/notocar/14588.avi
+#EXTINF:-1,The Walking Dead S06 E05
+http://play.serpienteserver.com:8080/series/notocar/notocar/14589.avi
+#EXTINF:-1,The Walking Dead S06 E06
+http://play.serpienteserver.com:8080/series/notocar/notocar/14590.avi
+#EXTINF:-1,The Walking Dead S06 E07
+http://play.serpienteserver.com:8080/series/notocar/notocar/14591.avi
+#EXTINF:-1,The Walking Dead S06 E08
+http://play.serpienteserver.com:8080/series/notocar/notocar/14592.avi
+#EXTINF:-1,The Walking Dead S06 E09
+http://play.serpienteserver.com:8080/series/notocar/notocar/14593.avi
+#EXTINF:-1,The Walking Dead S06 E10
+http://play.serpienteserver.com:8080/series/notocar/notocar/14594.avi
+#EXTINF:-1,The Walking Dead S06 E11
+http://play.serpienteserver.com:8080/series/notocar/notocar/14595.avi
+#EXTINF:-1,The Walking Dead S06 E12
+http://play.serpienteserver.com:8080/series/notocar/notocar/14596.avi
+#EXTINF:-1,The Walking Dead S06 E13
+http://play.serpienteserver.com:8080/series/notocar/notocar/14597.avi
+#EXTINF:-1,The Walking Dead S06 E14
+http://play.serpienteserver.com:8080/series/notocar/notocar/14598.avi
+#EXTINF:-1,The Walking Dead S06 E15
+http://play.serpienteserver.com:8080/series/notocar/notocar/14599.avi
+#EXTINF:-1,The Walking Dead S06 E16
+http://play.serpienteserver.com:8080/series/notocar/notocar/14600.avi
+#EXTINF:-1,The Walking Dead S07 E01
+http://play.serpienteserver.com:8080/series/notocar/notocar/14601.avi
+#EXTINF:-1,The Walking Dead S07 E02
+http://play.serpienteserver.com:8080/series/notocar/notocar/14602.avi
+#EXTINF:-1,The Walking Dead S07 E03
+http://play.serpienteserver.com:8080/series/notocar/notocar/14603.avi
+#EXTINF:-1,The Walking Dead S07 E04
+http://play.serpienteserver.com:8080/series/notocar/notocar/14604.avi
+#EXTINF:-1,The Walking Dead S07 E05
+http://play.serpienteserver.com:8080/series/notocar/notocar/14605.avi
+#EXTINF:-1,The Walking Dead S07 E06
+http://play.serpienteserver.com:8080/series/notocar/notocar/14606.avi
+#EXTINF:-1,The Walking Dead S07 E07
+http://play.serpienteserver.com:8080/series/notocar/notocar/14607.avi
+#EXTINF:-1,The Walking Dead S07 E08
+http://play.serpienteserver.com:8080/series/notocar/notocar/14608.avi
+#EXTINF:-1,The Walking Dead S07 E09
+http://play.serpienteserver.com:8080/series/notocar/notocar/14609.avi
+#EXTINF:-1,The Walking Dead S07 E10
+http://play.serpienteserver.com:8080/series/notocar/notocar/14610.avi
+#EXTINF:-1,The Walking Dead S07 E11
+http://play.serpienteserver.com:8080/series/notocar/notocar/14611.avi
+#EXTINF:-1,The Walking Dead S07 E12
+http://play.serpienteserver.com:8080/series/notocar/notocar/14612.avi
+#EXTINF:-1,The Walking Dead S07 E13
+http://play.serpienteserver.com:8080/series/notocar/notocar/14613.avi
+#EXTINF:-1,The Walking Dead S07 E14
+http://play.serpienteserver.com:8080/series/notocar/notocar/14614.avi
+#EXTINF:-1,The Walking Dead S07 E15
+http://play.serpienteserver.com:8080/series/notocar/notocar/14615.avi
+#EXTINF:-1,The Walking Dead S07 E16
+http://play.serpienteserver.com:8080/series/notocar/notocar/14616.avi
+#EXTINF:-1,The Walking Dead S08 E01
+http://play.serpienteserver.com:8080/series/notocar/notocar/14617.avi
+#EXTINF:-1,The Walking Dead S08 E02
+http://play.serpienteserver.com:8080/series/notocar/notocar/14619.avi
+#EXTINF:-1,The Walking Dead S08 E03
+http://play.serpienteserver.com:8080/series/notocar/notocar/14620.avi
+#EXTINF:-1,The Walking Dead S08 E04
+http://play.serpienteserver.com:8080/series/notocar/notocar/14621.avi
+#EXTINF:-1,The Walking Dead S08 E05
+http://play.serpienteserver.com:8080/series/notocar/notocar/14622.avi
+#EXTINF:-1,The Walking Dead S08 E06
+http://play.serpienteserver.com:8080/series/notocar/notocar/14623.avi
+#EXTINF:-1,The Walking Dead S08 E07
+http://play.serpienteserver.com:8080/series/notocar/notocar/14618.avi
+#EXTINF:-1,The Walking Dead S08 E08
+http://play.serpienteserver.com:8080/series/notocar/notocar/14632.avi
+#EXTINF:-1,The Walking Dead S08 E09
+http://play.serpienteserver.com:8080/series/notocar/notocar/14624.avi
+#EXTINF:-1,The Walking Dead S08 E10
+http://play.serpienteserver.com:8080/series/notocar/notocar/14625.avi
+#EXTINF:-1,The Walking Dead S08 E11
+http://play.serpienteserver.com:8080/series/notocar/notocar/14633.avi
+#EXTINF:-1,The Walking Dead S08 E12
+http://play.serpienteserver.com:8080/series/notocar/notocar/14626.avi
+#EXTINF:-1,The Walking Dead S08 E13
+http://play.serpienteserver.com:8080/series/notocar/notocar/14627.avi
+#EXTINF:-1,The Walking Dead S08 E14
+http://play.serpienteserver.com:8080/series/notocar/notocar/14628.avi
+#EXTINF:-1,The Walking Dead S08 E15
+http://play.serpienteserver.com:8080/series/notocar/notocar/14629.avi
+#EXTINF:-1,The Walking Dead S08 E16
+http://play.serpienteserver.com:8080/series/notocar/notocar/14630.avi
+#EXTINF:-1,The Walking Dead S09 E01
+http://play.serpienteserver.com:8080/series/notocar/notocar/14645.avi
+#EXTINF:-1,The Walking Dead S09 E02
+http://play.serpienteserver.com:8080/series/notocar/notocar/14646.avi
+#EXTINF:-1,The Walking Dead S09 E03
+http://play.serpienteserver.com:8080/series/notocar/notocar/14635.avi
+#EXTINF:-1,The Walking Dead S09 E04
+http://play.serpienteserver.com:8080/series/notocar/notocar/14636.avi
+#EXTINF:-1,The Walking Dead S09 E05
+http://play.serpienteserver.com:8080/series/notocar/notocar/14647.avi
+#EXTINF:-1,The Walking Dead S09 E06
+http://play.serpienteserver.com:8080/series/notocar/notocar/14648.avi
+#EXTINF:-1,The Walking Dead S09 E07
+http://play.serpienteserver.com:8080/series/notocar/notocar/14634.mkv
+#EXTINF:-1,The Walking Dead S09 E08
+http://play.serpienteserver.com:8080/series/notocar/notocar/14649.avi
+#EXTINF:-1,The Walking Dead S09 E09
+http://play.serpienteserver.com:8080/series/notocar/notocar/14637.avi
+#EXTINF:-1,The Walking Dead S09 E10
+http://play.serpienteserver.com:8080/series/notocar/notocar/14638.avi
+#EXTINF:-1,The Walking Dead S09 E11
+http://play.serpienteserver.com:8080/series/notocar/notocar/14639.avi
+#EXTINF:-1,The Walking Dead S09 E12
+http://play.serpienteserver.com:8080/series/notocar/notocar/14640.avi
+#EXTINF:-1,The Walking Dead S09 E13
+http://play.serpienteserver.com:8080/series/notocar/notocar/14641.avi
+#EXTINF:-1,The Walking Dead S09 E14
+http://play.serpienteserver.com:8080/series/notocar/notocar/14642.avi
+#EXTINF:-1,The Walking Dead S09 E15
+http://play.serpienteserver.com:8080/series/notocar/notocar/14643.avi
+#EXTINF:-1,The Walking Dead S09 E16
+http://play.serpienteserver.com:8080/series/notocar/notocar/14644.avi
+#EXTINF:-1,The Walking Dead S10 E01
+http://play.serpienteserver.com:8080/series/notocar/notocar/14651.avi
+#EXTINF:-1,The Walking Dead S10 E02
+http://play.serpienteserver.com:8080/series/notocar/notocar/14652.avi
+#EXTINF:-1,The Walking Dead S10 E03
+http://play.serpienteserver.com:8080/series/notocar/notocar/14653.avi
+#EXTINF:-1,The Walking Dead S10 E04
+http://play.serpienteserver.com:8080/series/notocar/notocar/14654.avi
+#EXTINF:-1,The Walking Dead S10 E05
+http://play.serpienteserver.com:8080/series/notocar/notocar/14655.avi
+#EXTINF:-1,The Walking Dead S10 E06
+http://play.serpienteserver.com:8080/series/notocar/notocar/14650.avi
+#EXTINF:-1,The Walking Dead S10 E07
+http://play.serpienteserver.com:8080/series/notocar/notocar/14656.avi
+#EXTINF:-1,The Walking Dead S10 E08
+http://play.serpienteserver.com:8080/series/notocar/notocar/14657.avi
+#EXTINF:-1,The Walking Dead S10 E09
+http://play.serpienteserver.com:8080/series/notocar/notocar/14658.avi
+#EXTINF:-1,The Walking Dead S10 E10
+http://play.serpienteserver.com:8080/series/notocar/notocar/14659.avi
+#EXTINF:-1,The Walking Dead S10 E11
+http://play.serpienteserver.com:8080/series/notocar/notocar/14660.avi
+#EXTINF:-1,The Walking Dead S10 E12
+http://play.serpienteserver.com:8080/series/notocar/notocar/14661.avi
